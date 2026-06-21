@@ -1,0 +1,21 @@
+# .NET
+backend/SmartNotes.API/bin/
+backend/SmartNotes.API/obj/
+backend/SmartNotes.API/*.db
+backend/SmartNotes.API/*.db-shm
+backend/SmartNotes.API/*.db-wal
+backend/SmartNotes.API/Uploads/
+
+# Node
+frontend/smart-notes-app/node_modules/
+frontend/smart-notes-app/dist/
+
+# IDE
+.vs/
+.vscode/settings.json
+*.user
+
+# Env
+.env
+.env.local
+appsettings.Development.json
