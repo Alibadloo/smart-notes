@@ -7,10 +7,10 @@ A professional full-stack note-taking application inspired by Notion, Evernote, 
 ## Screenshots
 
 ### Login Page
-![Dashboard](screenshot/login.png)
+![Login](screenshot/notes-list.png)
 
 ### Main Dashboard
-![Login](screenshot/notes-list.png)
+![Dashboard](screenshot/login.png)
 
 ### Markdown Editor
 ![Editor](screenshot/editor.png)
